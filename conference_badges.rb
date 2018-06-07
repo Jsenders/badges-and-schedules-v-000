@@ -6,7 +6,7 @@ end
 def batch_badge_creator(speakers)
 list = []
 speakers.each { |name| list << "Hello, my name is #{name}."}
-list 
+list
 end
 
 def assign_rooms(speakers)
