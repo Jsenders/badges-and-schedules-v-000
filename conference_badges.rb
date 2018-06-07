@@ -19,7 +19,6 @@ def assign_rooms(speakers)
     end
     rooms
   end
-end  
 
 def printer
 end
